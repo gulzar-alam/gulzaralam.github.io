@@ -59,18 +59,6 @@ author_profile: true
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-<h2>Talks</h2>
-  <ul>{% for post in site.talks reversed %}
-    {% unless post.talk_type == "Conference proceedings talk" %}
-      {% include archive-single-talk-cv.html %}
-    {% endunless %}
-  {% endfor %}</ul>
-
-<h2>Teaching</h2>
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
 <h2 class="western">Research Interests and Skills:</h2>
 <ul style="line-height: 1.5; margin: 10px 0;">
  	<li><span style="font-size: medium;"><b>Topical:</b> collaboration, socialization, literacy, decentralized communities, specifically new/social media platforms and scientific research networks</span></li>
