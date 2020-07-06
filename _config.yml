@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Muhammad Haseeb Arshad"
+title                    : "Gulzar Alam"
 title_separator          : "-"
-name                     : &name "Muhammad Haseeb Arshad"
+name                     : &name "Gulzar Alam"
 description              : &description "Graduate Scholar"
 url                      : https://hasyarshad.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "hasyarshad.github.io"
+repository               : "gulzaralam.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -50,7 +50,7 @@ future                   : true
 
 # Social Sharing
 twitter:
-  username               : &twitter "_haseebarshad"
+  username               : # &twitter "_haseebarshad"
 facebook:
   username               : 
   app_id                 :
@@ -72,13 +72,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Muhammad Haseeb Arshad"
+  name             : "Gulzar Alam"
   avatar           : "profile.png"
-  bio              : "Graduate Scholar; researcher at the FACTS LAB in <a style='color: black;' href='http://www.kfupm.edu.sa/default.aspx'>King Fahd University of Petroleum & Mineals</a>"
+  bio              : "Graduate Scholar; researcher at the <a style='color: black;' href='http://www.kfupm.edu.sa/default.aspx'>King Fahd University of Petroleum & Mineals</a>"
   location         : "KFUPM, KSA"
   employer         : 
-  googlescholar    : "https://scholar.google.com/citations?user=-nga1p4AAAAJ&hl=en"
-  researchgate     : "https://www.researchgate.net/profile/Muhammad_Haseeb_Arshad"
+  googlescholar    : # "https://scholar.google.com/citations?user=-nga1p4AAAAJ&hl=en"
+  researchgate     : "https://www.researchgate.net/profile/Gulzar_Alam2"
   email            :
   uri              : 
   bitbucket        :
@@ -87,7 +87,7 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "hasyarshad"
+  github           : "gulzar-alam"
   google_plus      :
   keybase          :
   instagram        : 
