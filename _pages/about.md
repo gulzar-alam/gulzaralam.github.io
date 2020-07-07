@@ -10,10 +10,10 @@ redirect_from:
 
 {% include base_path %}
 
-Hi! I’m M. Haseeb, a control engineer and an enthusiastic programmer, currently enrolled in the [Department of Electrical Engineering](http://www.kfupm.edu.sa/departments/ee/default.aspx) at KFUPM, Saudi Arabia as a full time graduate student.
+Hi! I’m Gulzar Alam, a software engineer and an enthusiastic researcher, currently graduated fron the  in the [College of Information and Computer Science with a major in Software Engineering](http://www.kfupm.edu.sa/departments/ics/default.aspx) at KFUPM, Saudi Arabia as a full time graduate student (Fully Funded Scholarship).
 
-Most of my research work is focused on **Machine Drives** and **Multilevel Inverters**. I’ve published two conference papers for **Two-Phase Symmetrical Induction Motor Drive** and currently working on 4 potential papers on **Finite Set Control Model Predictive Torque Control of Induction Motor**. Recently I've started exploring the usefulness of machine learning in industrial drives. 
+Most of my research work is focused on **Cyber Security, Software Security, IoT, AI** and **Software Engineering**. I’ve published three conference papers within the domain **Cyber Security** and currently working on 6 potential papers on **Cyber Security, Software Security, IoT, AI, Software Quality and Assurance**. Recently I've started exploring the usefulness and application of machine learning and deep learning for cyber security. 
 
-I study topics including stochastic theory, advanced power electronic, convex optimization theory, evolutionary programming, adaptive control, digital signal processing, machine learning: introduction to fundamentals and intelligent control. As today's world is increasingly made possible through verification of software simulations, my work also is more focused towards the experimental validation of the proposed design simulations.
+I am passionate, self-motivated, reliable, responsible, and hard working individual. To be a part of highly competitive and dynamic team, learning exponentially. Seeking a career in an organized and professional environment. Highly, as to build and polish my skills to meet the competitive organization needs through a result oriented approach. 
 
-I received my M.Sc from [UET Lahore - Department of Electrical Engineering](https://www.uet.edu.pk/faculties/facultiesinfo/department?RID=introduction&id=9), and my B.Sc. from [PU - Department of Electrical Engineering](http://pu.edu.pk/home/subdepartment/67003). I consider myself an inter-disciplinary nomad, working in disciplines like computer science, information science, electrical engineering, and management science.
+I received my BS (Hons) from [UOM KP - Department of Software Engineering](https://se.uom.edu.pk/). I consider myself an inter-disciplinary nomad, working in disciplines like computer science,cyber security, information science, Software engineering, and management science.
