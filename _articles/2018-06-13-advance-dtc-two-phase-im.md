@@ -1,7 +1,7 @@
 ---
 title: "How Feasible Moving Target Defense is Within ICS Environment"
 category: articles
-permalink: /articles/2018-06-13-advance-dtc-two-phase-im
+permalink: 
 excerpt: "Industrial Control Systems (ICS) are designed to work for long periods of time with a very deterministic
 behavior as availability and reliability are the most important requirements mandated in operating critical
 infrastructures. Embracing cyber security defenses in such environments is of utmost importance as
