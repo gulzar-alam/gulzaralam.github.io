@@ -13,7 +13,7 @@ available MTD mechanisms, this paper selects to simulate the IP randomization ca
 Software Defined Networks (SDN). It encourages applying MTD within ICS environment provided that
 packet size is maintained around 1024 bytes which introduces a delay under 50 mSec, an acceptable latency
 to large ICS installations around the world."
-date: 2018-06-13
+date: 2020-01-15
 ---
 
 <a href="https://www.onepetro.org/conference-paper/IPTC-19649-MS">Download PDF here</a>.
